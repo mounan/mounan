@@ -3,7 +3,7 @@
 </p>
 <h1> Hey there < coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="http://readme-typing-svg.herokuapp.com?color=D20EF7&center=true&vCenter=true&lines=I'm+Makio;A+Computer+Science+Student;Loves+Cooking+and+Coding">
+<img src="http://readme-typing-svg.herokuapp.com?size=25&color=D20EF7&center=true&vCenter=true&width=600&height=200&lines=I'm+Makio;A+Computer+Science+Student;Loves+Cooking+and+Coding">
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/ZbIADknDu7C4lKolgb/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
