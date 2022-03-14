@@ -1,7 +1,15 @@
+<p align='center'>
+<img src="./profile-3d-contrib/profile-night-view.svg">
+</p>
+<hr>
+<br>
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
-<h1> Hey there < coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1 style="color:#D20EF7"> Bonjour, there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 <img src="http://readme-typing-svg.herokuapp.com?size=25&color=D20EF7&center=true&vCenter=true&width=600&height=200&lines=I'm+Makio;A+Computer+Science+Student;Loves+Cooking+and+Coding">
 </p>
@@ -13,6 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=mounan">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
+
 
 
 ## Github Contribution Streak 🔥 
@@ -46,14 +55,6 @@
 
 
 
-<hr>
-<br>
-
-## 3D Contribution Calendar 📅
-<br>
-<p align='center'>
-<img src="./profile-3d-contrib/profile-night-view.svg">
-</p>
 <hr>
 <br>
 
